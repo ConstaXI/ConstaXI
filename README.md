@@ -1,4 +1,4 @@
-### Hello there, I'm Davi Banfi 👋
+# Hello there, I'm Davi Banfi 👋
 
 ## Sobre mim
 
