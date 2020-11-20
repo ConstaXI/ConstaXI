@@ -4,7 +4,7 @@
 
 	Sou estudante de Sistemas de Informação na Universidade Federal de Ouro Preto.
 
-## Você pode me encontrar na Steam as vezes :computer: :video_game:
+## Você pode me encontrar na Steam :video_game:
 
 	https://steamcommunity.com/id/constaxi/
 
