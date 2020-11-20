@@ -6,7 +6,7 @@
 
 ## Você pode me encontrar na Steam as vezes :computer: :video_game:
 
-	https://steamcommunity.com/id/constaxi/
+	<a href="https://steamcommunity.com/id/constaxi/">Meu perfil na Steam</a>
 
 	O que eu gosto de jogar? Eu tenho 1000 horas em um jogo de simulação de países, 
 	que consiste em olhar mapas e tabelas (Europa Universalis IV) e mais 1000h de 
