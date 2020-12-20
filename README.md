@@ -2,7 +2,7 @@
 
 ## Sobre mim
 
-Sou estudante de Sistemas de Informação na Universidade Federal de Ouro Preto. Atualmente tenho estudado e feito projetos voltados para ReactJS e NodeJS.
+Sou estudante de Sistemas de Informação na Universidade Federal de Ouro Preto. Atualmente tenho estudado e feito projetos com ReactJS e NodeJS.
 
 ## Favorite Tools
 
