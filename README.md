@@ -2,16 +2,16 @@
 
 ## Sobre mim
 
-Sou estudante de Sistemas de Informação na Universidade Federal de Ouro Preto.
+Sou estudante de Sistemas de Informação na Universidade Federal de Ouro Preto. Atualmente tenho estudado e feito projetos voltados para ReactJS e NodeJS.
 
-## Você pode me encontrar na Steam :video_game:
+## Favorite Tools
 
-[Minha Steam](https://steamcommunity.com/id/constaxi/)
+<img src="https://i.ibb.co/PZ2XZgr/ts.png" width="20"/> <b>TypeScript</b>,
+<img src="https://www.flaticon.com/svg/static/icons/svg/1260/1260775.svg" width="20"/> <b>React Js</b>,
+<img src="https://www.flaticon.com/svg/static/icons/svg/919/919825.svg" width="20"/> <b>Node Js</b>
+<img src="https://www.flaticon.com/svg/static/icons/svg/3600/3600912.svg" width="20"/> <b>C</b>
+<img src="https://www.flaticon.com/svg/static/icons/svg/226/226777.svg" width="20"/> <b>Java</b>
 
-Discord: ConstaXI#4035
+## Social Media
 
-O que eu gosto de jogar? Eu tenho **1000 horas** em um jogo de simulação de países, que consiste em olhar mapas e tabelas (Europa Universalis IV) **e mais 1000 horas** de CS:GO, diria que eu sou o conceito de ecliticidade.
-
-## Meus conhecimentos :brain:
-	
-Se concentram mais em JavaScript/TypeScript, Node.js, React e C/C++.
+<img src="https://www.flaticon.com/svg/static/icons/svg/3/3782.svg" width="20"/> [Minha Steam](https://steamcommunity.com/id/constaxi/)
