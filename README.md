@@ -6,11 +6,13 @@ Sou estudante de Sistemas de Informação na Universidade Federal de Ouro Preto.
 
 ## Favorite Tools
 
-<img src="https://i.ibb.co/PZ2XZgr/ts.png" width="20"/> <b>TypeScript</b>,
-<img src="https://www.flaticon.com/svg/static/icons/svg/1260/1260775.svg" width="20"/> <b>React Js</b>,
-<img src="https://www.flaticon.com/svg/static/icons/svg/919/919825.svg" width="20"/> <b>Node Js</b>
-<img src="https://www.flaticon.com/svg/static/icons/svg/3600/3600912.svg" width="20"/> <b>C</b>
-<img src="https://www.flaticon.com/svg/static/icons/svg/226/226777.svg" width="20"/> <b>Java</b>
+<ul>
+  <li> <img src="https://i.ibb.co/PZ2XZgr/ts.png" width="20"/> <b>TypeScript</b> </li>
+  <li> <img src="https://www.flaticon.com/svg/static/icons/svg/1260/1260775.svg" width="20"/> <b>React Js</b> </li>
+  <li> <img src="https://www.flaticon.com/svg/static/icons/svg/919/919825.svg" width="20"/> <b>Node Js</b> </li>
+  <li> <img src="https://www.flaticon.com/svg/static/icons/svg/3600/3600912.svg" width="20"/> <b>C</b> </li>
+  <li> <img src="https://www.flaticon.com/svg/static/icons/svg/226/226777.svg" width="20"/> <b>Java</b> </li>
+</ul>
 
 ## Social Media
 
