@@ -16,4 +16,4 @@ I'm a Information Systems student at Federal University of Ouro Preto (UFOP). Cu
 
 ## Social Media
 
-<img src="https://www.flaticon.com/svg/static/icons/svg/3/3782.svg" width="20"/> [Minha Steam](https://steamcommunity.com/id/constaxi/)
+<img src="https://www.flaticon.com/svg/static/icons/svg/3/3782.svg" width="20"/> [Steam](https://steamcommunity.com/id/constaxi/)
