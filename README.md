@@ -8,7 +8,7 @@ Sou estudante de Sistemas de Informação na Universidade Federal de Ouro Preto.
 
 <ul>
   <li> <b> React Js </b> <img src="https://www.flaticon.com/svg/static/icons/svg/1260/1260775.svg" width="24"/> </li>
-  <li> <b> Node Js </b> <img src="https://www.flaticon.com/svg/static/icons/svg/919/919825.svg" width="24"/> </li>
+  <li> <b> Node Js </b> <img src="https://icon-library.com/images/js-icon/js-icon-13.jpg" width="24"/> </li>
   <li> <b> TypeScript Programming Language </b> <img src="https://i.ibb.co/PZ2XZgr/ts.png" width="24"/> </li>
   <li> <b> C Programming Language</b> <img src="https://www.flaticon.com/svg/static/icons/svg/3600/3600912.svg" width="24"/> </li>
   <li> <b> Java Programming Language</b> <img src="https://www.flaticon.com/svg/static/icons/svg/226/226777.svg" width="24"/> </li>
