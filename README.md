@@ -1,8 +1,8 @@
 # Hello there, I'm Davi Banfi 👋
 
-## Sobre mim
+## About me
 
-Sou estudante de Sistemas de Informação na Universidade Federal de Ouro Preto. Atualmente tenho estudado e feito projetos com ReactJS e NodeJS.
+I'm a Information Systems student at Federal University of Ouro Preto (UFOP). Currently, I'm focusing in projects with Node and React.
 
 ## Favorite Tools
 
