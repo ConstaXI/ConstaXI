@@ -2,16 +2,15 @@
 
 ## About me
 
-I'm a Information Systems student at Federal University of Ouro Preto (UFOP). Currently, I'm focusing in projects with Node and React.
+I'm a Information Systems student at Federal University of Ouro Preto (UFOP). Currently, I'm focusing in projects with NodeJS and Blockchain.
 
 ## Favorite Tools
 
 <ul>
-  <li> <b> React Js </b> </li>
   <li> <b> Node Js </b> </li>
-  <li> <b> JavaScript Programming Language </b> </li>
+  <li> <b> Javascript/Typescript Programming Language </b> </li>
   <li> <b> C Programming Language</b> </li>
-  <li> <b> Java Programming Language</b> </li>
+  <li> <b> Rust Programming Language</b> </li>
 </ul>
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=ConstaXI&count_private=true&show_icons=true&hide_border=true&theme=tokyonight)
@@ -22,4 +21,5 @@ I'm a Information Systems student at Federal University of Ouro Preto (UFOP). Cu
 
 ## Social Media
 
-[Steam](https://steamcommunity.com/id/constaxi/)
+[Steam](https://steamcommunity.com/id/constaxi)
+[Instagram](https://www.instagram.com/banfi4)
